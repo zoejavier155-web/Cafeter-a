@@ -1,1 +1,1 @@
-# Cafeter-a
+# Cafeteria
