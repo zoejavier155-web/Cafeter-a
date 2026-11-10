@@ -1,10 +1,10 @@
 # Cafeteria
-Descripcion del proyecto:
+# Descripcion del proyecto:
 El proyecto consiste en desarrollar una plataforma web para administrar las principales operaciones de la cafetería universitaria Drip & Drop, facilitando el trabajo del personal encargado de tomar las órdenes, registrar los pedidos, consultar los productos disponibles y controlar las operaciones realizadas.
 La plataforma estará diseñada para ser utilizada exclusivamente por los trabajadores de la cafetería, quienes serán los responsables de ingresar al sistema para consultar el catálogo de alimentos y bebidas, seleccionar los productos solicitados por los clientes, registrar los pedidos y dar seguimiento a las órdenes pendientes y finalizadas.
 El sistema busca mejorar la organización del servicio de cafetería mediante una interfaz sencilla, práctica y fácil de utilizar, que permita agilizar las actividades de los empleados, reducir errores durante el registro de las órdenes y mantener un mejor control de los productos, pedidos y ventas.
 
-Descripcion del problema:
+# Descripcion del problema:
 Actualmente, en las cafeterías universitarias es común que durante los horarios de mayor demanda se presenten dificultades para organizar los pedidos, controlar las órdenes pendientes y mantener un registro adecuado de los productos vendidos.
 Cuando los trabajadores reciben los pedidos de manera verbal o los registran manualmente, pueden presentarse diferentes problemas, como confusiones al momento de tomar las órdenes, errores en los productos o cantidades solicitadas, pérdida de información, retrasos en la preparación y dificultades para identificar qué pedido debe atenderse primero.
 Además, los trabajadores encargados de atender a los clientes necesitan consultar constantemente los productos disponibles, sus precios y las diferentes opciones del menú. Cuando esta información no se encuentra organizada en un solo lugar, el proceso de atención puede volverse más lento y complicado, especialmente cuando existe una gran cantidad de clientes.
